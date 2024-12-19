@@ -5,7 +5,7 @@
 <link rel="icon" type="image/x-icon" href="kocka.jpg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>DOBRE JATROO</title>
+<title>DOBRE JATRO</title>
 </head>
 
 <body>
@@ -28,9 +28,9 @@ Jakub Šerých se vrátil do vesnice, kde lidé zaèali cítit úlevu. Strom dobré jatr
 
  
 
-
+<div class="ble">
 <p> <a href="kocka.jpg">DOBRE RANKO</a>   <a href="dobrejatro.jpg">DOBRE JATRO</a> </p> 
-
+</div>
 
 
 
